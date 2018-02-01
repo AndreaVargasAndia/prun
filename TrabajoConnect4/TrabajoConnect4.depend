@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1517269088 source:d:\frank\hijas\andrea\trabajoconnect4\src\carray.cpp
+	"CArray.h"
+
+1517269088 d:\frank\hijas\andrea\trabajoconnect4\include\carray.h
+
+1517445432 source:d:\frank\hijas\andrea\trabajoconnect4\main.cpp
+	<iostream>
+	<stdlib.h>
+	"CArray2Dim.h"
+	"CArray.h"
+	"Cjuego.h"
+	"CjugadorHumano.h"
+	"CjugadorMaquina.h"
+	"CjugadorMaquinaPro.h"
+
+1517434803 d:\frank\hijas\andrea\trabajoconnect4\include\carray2dim.h
+	<iostream>
+
+1517438821 d:\frank\hijas\andrea\trabajoconnect4\include\cjuego.h
+	<string>
+	"CArray2Dim.h"
+	"CTablero.h"
+	"Cjugador.h"
+
+1517444999 source:d:\frank\hijas\andrea\trabajoconnect4\src\cjuego.cpp
+	"Cjuego.h"
+
+1517445359 source:d:\frank\hijas\andrea\trabajoconnect4\src\ctablero.cpp
+	"CTablero.h"
+
+1517445314 d:\frank\hijas\andrea\trabajoconnect4\include\ctablero.h
+	"CArray2Dim.h"
+
+1517440538 source:d:\frank\hijas\andrea\trabajoconnect4\src\cjugador.cpp
+	"Cjugador.h"
+
+1517444959 d:\frank\hijas\andrea\trabajoconnect4\include\cjugador.h
+	<string>
+	"CTablero.h"
+
+1517444959 source:d:\frank\hijas\andrea\trabajoconnect4\src\cjugadorhumano.cpp
+	"CjugadorHumano.h"
+
+1517444959 d:\frank\hijas\andrea\trabajoconnect4\include\cjugadorhumano.h
+	"Cjugador.h"
+	"CTablero.h"
+
+1517444959 d:\frank\hijas\andrea\trabajoconnect4\include\cjugadormaquina.h
+	"Cjugador.h"
+	"CTablero.h"
+
+1517444959 source:d:\frank\hijas\andrea\trabajoconnect4\src\cjugadormaquina.cpp
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"CjugadorMaquina.h"
+
+1517445322 source:d:\frank\hijas\andrea\trabajoconnect4\src\cjugadormaquinapro.cpp
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"CjugadorMaquinaPro.h"
+
+1517446098 d:\frank\hijas\andrea\trabajoconnect4\include\cjugadormaquinapro.h
+	"Cjugador.h"
+	"CTablero.h"
+
